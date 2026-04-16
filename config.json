@@ -11,8 +11,9 @@
     "title": "نحن نقدم",
     "content": "أفضل خدمات السوشيال ميديا وحسابات الألعاب بأعلى جودة وأقل سعر في السوق المصري والعربي."
   },
+{
   "sections": [
-    {"id": "smm", "title": "تزويد متابعين", "icon": "🚀", "type": "external"},
+    {"id": "smm", "title": "تزويد متابعين", "icon": "🚀", "type": "external", "link": "https://smmx1.com/"},
     {"id": "games", "title": "شراء حسابات ألعاب", "icon": "🎮", "type": "internal", "link": "games.html"},
     {"id": "social", "title": "شراء حسابات سوشيال", "icon": "📱", "type": "internal", "link": "social.html"},
     {"id": "services", "title": "بيع خدمات", "icon": "🛠️", "type": "internal", "link": "services.html"},
