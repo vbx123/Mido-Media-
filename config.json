@@ -1,7 +1,7 @@
 {
   "siteName": "MIDO MEDIA",
   "welcomeMsg": "أهلاً بكم في ميدو ميديا",
-  "externalServiceUrl": "https://example-smm-provider.com",
+  "externalServiceUrl": "https://smmx1.com/",
   "socialLinks": {
     "whatsapp": "https://wa.me/201111111111",
     "telegram": "https://t.me/yourchannel",
@@ -11,7 +11,6 @@
     "title": "نحن نقدم",
     "content": "أفضل خدمات السوشيال ميديا وحسابات الألعاب بأعلى جودة وأقل سعر في السوق المصري والعربي."
   },
-{
   "sections": [
     {"id": "smm", "title": "تزويد متابعين", "icon": "🚀", "type": "external", "link": "https://smmx1.com/"},
     {"id": "games", "title": "شراء حسابات ألعاب", "icon": "🎮", "type": "internal", "link": "games.html"},
